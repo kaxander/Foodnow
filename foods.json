@@ -1,0 +1,152 @@
+[
+    {
+        "id": "1",
+        "name": "Frango assado",
+        "price": 39.9,
+        "time": "50-60 min",
+        "delivery": 5.99,
+        "rating": 4.8,
+        "image": "https://i.imgur.com/CEVUdju.png",
+        "restaurantId": "1",
+        "restaurantImg": "https://i.imgur.com/sZ1Jye3.png",
+        "restaurantName": "KFC",
+        "category": "Comida",
+        "ingredients": [
+            {
+                "id": "1",
+                "name": "Frango",
+                "img": "https://i.imgur.com/CEVUdju.png"
+            },
+            {
+                "id": "2",
+                "name": "Carne",
+                "img": "https://i.imgur.com/CEVUdju.png"
+            },
+            {
+                "id": "3",
+                "name": "Pão",
+                "img": "https://i.imgur.com/CEVUdju.png"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Marmita fit",
+        "price": 29,
+        "time": "30-40 min",
+        "delivery": 2.99,
+        "rating": 4.9,
+        "image": "https://i.imgur.com/uXRuDFD.png",
+        "restaurantId": "6",
+        "restaurantImg": "https://i.imgur.com/uXRuDFD.png",
+        "restaurantName": "Marmitas express",
+        "category": "Comida",
+        "ingredients": [
+            {
+                "id": "1",
+                "name": "Frango",
+                "img": "https://i.imgur.com/CEVUdju.png"
+            },
+            {
+                "id": "2",
+                "name": "Carne",
+                "img": "https://i.imgur.com/CEVUdju.png"
+            },
+            {
+                "id": "3",
+                "name": "Pão",
+                "img": "https://i.imgur.com/CEVUdju.png"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Burguer Dev",
+        "price": 40,
+        "time": "50-60 min",
+        "delivery": 5.99,
+        "rating": 4.5,
+        "image": "https://i.imgur.com/O5c3lyU.png",
+        "restaurantId": "5",
+        "restaurantImg": "https://i.imgur.com/kmQvG2T.png",
+        "restaurantName": "McDonald's",
+        "category": "Lanche",
+        "ingredients": [
+            {
+                "id": "1",
+                "name": "Frango",
+                "img": "https://i.imgur.com/CEVUdju.png"
+            },
+            {
+                "id": "2",
+                "name": "Carne",
+                "img": "https://i.imgur.com/CEVUdju.png"
+            },
+            {
+                "id": "3",
+                "name": "Pão",
+                "img": "https://i.imgur.com/CEVUdju.png"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Picanha Grill",
+        "price": 36,
+        "time": "50-60 min",
+        "delivery": 5.99,
+        "rating": 4.4,
+        "image": "https://i.imgur.com/0UjG3wk.png",
+        "restaurantId": "3",
+        "restaurantImg": "https://i.imgur.com/jg3GJVN.png",
+        "restaurantName": "Outback",
+        "category": "Churrasco",
+        "ingredients": [
+            {
+                "id": "1",
+                "name": "Frango",
+                "img": "https://i.imgur.com/CEVUdju.png"
+            },
+            {
+                "id": "2",
+                "name": "Carne",
+                "img": "https://i.imgur.com/CEVUdju.png"
+            },
+            {
+                "id": "3",
+                "name": "Pão",
+                "img": "https://i.imgur.com/CEVUdju.png"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Açai 300ml",
+        "price": 20,
+        "time": "20-30 min",
+        "delivery": 2.99,
+        "rating": 4.4,
+        "image": "https://i.imgur.com/BaUUCkc.png",
+        "restaurantId": "3",
+        "restaurantImg": "https://i.imgur.com/jg3GJVN.png",
+        "restaurantName": "Outback",
+        "category": "Sorvete",
+        "ingredients": [
+            {
+                "id": "1",
+                "name": "Frango",
+                "img": "https://i.imgur.com/CEVUdju.png"
+            },
+            {
+                "id": "2",
+                "name": "Carne",
+                "img": "https://i.imgur.com/CEVUdju.png"
+            },
+            {
+                "id": "3",
+                "name": "Pão",
+                "img": "https://i.imgur.com/CEVUdju.png"
+            }
+        ]
+    }
+]

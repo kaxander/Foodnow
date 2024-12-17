@@ -42,16 +42,6 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - Exibição de pedidos em **cards interativos**.
 - Modal de **detalhes do pedido** ao clicar nos cards.
 
----
-
-## 📷 Demonstração do Projeto
-
-<img src="https://via.placeholder.com/800x400.png?text=Insira+uma+Imagem+do+Projeto" alt="Demonstração da Aplicação" />
-
-> Substitua o link acima por um *screenshot* real do projeto.
-
----
-
 ## ⚙️ Como Executar o Projeto Localmente
 
 ### Pré-requisitos
